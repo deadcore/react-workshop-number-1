@@ -69,7 +69,7 @@ So why are we using them for layout?
 Because you can clear a footer below two floated columns, float layout came into being. If there had ever been a way to “clear” elements below positioned elements, we’d never have bothered to use floats for layout.
 
 ## Continuation
-We have continued on the project under [react-workshop-number-2](https://github.com/deadcore/react-workshop-number-1)
+We have continued on the project under [React Workshop 2](https://github.com/deadcore/react-workshop-number-2)
 
 ## Citation
 * [What are NPM, Yarn, Babel, and Webpack; and how to properly use them?](https://medium.com/front-end-hacking/what-are-npm-yarn-babel-and-webpack-and-how-to-properly-use-them-d835a758f987)
